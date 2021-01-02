@@ -1,0 +1,20 @@
+@font-face {
+    font-family: krasota1; /* Имя шрифта */
+    src: url(fonts/20219.ttf); /* Путь к файлу со шрифтом */
+}
+h1 {
+    font-family: krasota1;
+}
+h2 {
+    font-family: krasota1;
+}
+
+.programmistl {
+	display: block;
+	margin-top: -10px
+}
+
+.timl {
+	display: block;
+	margin-top: -10px
+}
